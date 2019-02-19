@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:local="http://schemas.android.com/apk/res-auto">
+  <item
+       android:id="@+id/menu_name_file"
+       local:showAsAction="always"
+       android:title="ИМЕНИ" />
+  <item
+       android:id="@+id/menu_time"
+       local:showAsAction="always"
+       android:title="ДАТЕ" />
+  <item
+       android:id="@+id/menu_size"
+       local:showAsAction="always"
+       android:title="РАЗМЕРУ" />
+</menu>

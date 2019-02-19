@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/menuDeleteCategory"
+      android:icon="@drawable/baseline_delete"
+      android:title="Удалить" />
+  <item
+      android:id="@+id/menuEditCategory"
+      android:icon="@drawable/baseline_edit"
+      android:title="Редактировать" />
+</menu>
